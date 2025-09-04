@@ -2,7 +2,7 @@
 
 This project is an end-to-end data analysis initiative for AtliQ Technologies, a real-world company, with the goal of providing actionable insights to their HR department. Using a real dataset, I transformed raw attendance data into a dynamic, interactive dashboard that helps stakeholders understand key employee metrics and make data-driven decisions. The final solution allows for monitoring crucial KPIs such as presence, sick leave, and work-from-home percentages.
 
-Data Handling and Transformation
+Data Handling and Transformation:
 A significant challenge in this project was combining data from multiple monthly attendance sheets into a single, cohesive dataset. Each month's data was stored in a separate worksheet within the same Excel file, and the columns were not consistently ordered, making a direct append difficult.
 
 To overcome this, I leveraged Power Query to create a robust and automated data transformation process. The key steps were:
