@@ -1,5 +1,5 @@
 # HR-Analytics-Employee-Insights-Dashboard
-Project Overview
+
 This project is an end-to-end data analysis initiative for AtliQ Technologies, a real-world company, with the goal of providing actionable insights to their HR department. Using a real dataset, I transformed raw attendance data into a dynamic, interactive dashboard that helps stakeholders understand key employee metrics and make data-driven decisions. The final solution allows for monitoring crucial KPIs such as presence, sick leave, and work-from-home percentages.
 
 Data Handling and Transformation
